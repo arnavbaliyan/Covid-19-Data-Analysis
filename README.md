@@ -1,10 +1,13 @@
 # Covid-19-Data-Analysis
-An analysis based on data from the covid-19 virus in a span of February 2020 - July 2020. The project is done in Google Co-Lab and uses Numpy, Pandas, and Plotly. In case data visualizations are not appearing, please refer to the screen shots below of the visualizations and graphs made in the notebook.<img width="1318" alt="Screenshot 2024-01-27 at 2 47 13 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/4c347c1a-a70f-4a99-8746-11eb7b7e0f53">
-<img width="1316" alt="Screenshot 2024-01-27 at 2 46 53 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/0c7607c3-f925-4b58-abcd-67c75df3c896">
-<img width="1317" alt="Screenshot 2024-01-27 at 2 46 16 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/1e8d02e7-3a4e-4972-a190-a19f65a8beef">
-<img width="1315" alt="Screenshot 2024-01-27 at 2 46 00 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/595265eb-84b4-404f-be5c-b4dc080b6835">
-<img width="1318" alt="Screenshot 2024-01-27 at 2 45 48 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/8a245730-3f17-4cb4-933b-f9d8f30121e7">
-<img width="1362" alt="Screenshot 2024-01-27 at 2 45 31 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/67d01a4d-8664-4503-93c0-0d605f8af576">
-<img width="1363" alt="Screenshot 2024-01-27 at 2 44 17 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/2894d915-3a23-4e93-ae07-c5efa7e5552a">
+An analysis based on data from the covid-19 virus in a span of February 2020 - July 2020. The project is done in Google Co-Lab and uses Numpy, Pandas, and Plotly. In case data visualizations are not appearing, please refer to the screen shots below of the visualizations and graphs made in the notebook.
+
+
+<img width="1316" alt="Screenshot 2024-01-27 at 2 50 03 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/ad0bb20e-8fae-4179-8492-a97c29318fdb">
+<img width="1362" alt="Screenshot 2024-01-27 at 2 45 31 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/c29dc37e-d891-4054-b52c-07eee27187b5">
+<img width="1318" alt="Screenshot 2024-01-27 at 2 45 48 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/1e533e6a-2105-4dbe-9639-4a2be86e83af">
+<img width="1315" alt="Screenshot 2024-01-27 at 2 46 00 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/2a366fc5-56a8-4faf-b6f3-f51d1eb93eab">
+<img width="1317" alt="Screenshot 2024-01-27 at 2 46 16 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/c8cea076-7e04-4ec7-9301-5440e257e61d">
+<img width="1316" alt="Screenshot 2024-01-27 at 2 46 53 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/b5e6d065-58c9-4bc9-8281-db30847b9e92">
+<img width="1318" alt="Screenshot 2024-01-27 at 2 47 13 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/0b0ad401-6a85-4561-a319-1693c992e256">
 
 
