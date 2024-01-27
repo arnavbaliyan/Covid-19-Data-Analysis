@@ -1,5 +1,5 @@
 # Covid-19-Data-Analysis
-An analysis based on data from the covid-19 virus in a span of February 2020 - July 2020. The project is done in Google Co-Lab and uses Numpy, Pandas, and Plotly. To access the notebook, please click on the .pynb file and once the file loads a button at the very top will allow you to access the notebook. Also in the about section of the project is listed a url to the notebook. In case data visualizations are not appearing, please refer to the screen shots below of the visualizations and graphs made in the notebook.
+An analysis based on data from the covid-19 virus in a span of February 2020 - July 2020. The project is done in Google Co-Lab and uses Numpy, Pandas, and Plotly. To access the notebook, please click on the .pynb file and once the file loads a button at the very top will allow you to access the notebook. Also in the About section of the project is listed a url to the notebook. In case data visualizations are not appearing, please refer to the screen shots below of the visualizations and graphs made in the notebook.
 
 
 <img width="1316" alt="Screenshot 2024-01-27 at 2 50 03 AM" src="https://github.com/arnavbaliyan/Covid-19-Data-Analysis/assets/112844595/ad0bb20e-8fae-4179-8492-a97c29318fdb">
